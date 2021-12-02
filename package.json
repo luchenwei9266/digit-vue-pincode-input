@@ -1,8 +1,8 @@
 {
-  "name": "vue-pincode-input",
-  "version": "0.5.0",
+  "name": "digit-vue-pincode-input",
+  "version": "0.1.0",
   "private": false,
-  "description": "Great pincode input component for Vue.js applications.",
+  "description": "基于vue-pincode-input插件的扩展",
   "main": "PincodeInput.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,8 +26,8 @@
   "author": "Seokky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Seokky/vue-pincode-input/issues"
+    "url": "https://github.com/Yolenna/digit-vue-pincode-input/issues"
   },
-  "homepage": "https://github.com/Seokky/vue-pincode-input#readme",
+  "homepage": "https://github.com/Yolenna/digit-vue-pincode-input#readme",
   "devDependencies": {}
 }
