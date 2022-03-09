@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yolenna/digit-vue-pincode-input.git"
+    "url": "git+https://github.com/luchenwei9266/digit-vue-pincode-input.git"
   },
   "keywords": [
     "vue",
@@ -26,8 +26,8 @@
   "author": "Seokky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Yolenna/digit-vue-pincode-input/issues"
+    "url": "https://github.com/luchenwei9266/digit-vue-pincode-input/issues"
   },
-  "homepage": "https://github.com/Yolenna/digit-vue-pincode-input#readme",
+  "homepage": "https://github.com/luchenwei9266/digit-vue-pincode-input#readme",
   "devDependencies": {}
 }
