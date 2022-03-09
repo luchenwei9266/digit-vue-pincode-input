@@ -1,6 +1,6 @@
 {
   "name": "digit-vue-pincode-input",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "description": "基于vue-pincode-input插件的扩展",
   "main": "PincodeInput.min.js",
